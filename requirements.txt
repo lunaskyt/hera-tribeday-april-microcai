@@ -1,3 +1,4 @@
 pydantic
 sentence-transformers
 accelerate
+hf_xet
